@@ -1,0 +1,10 @@
+video{
+    height: 100px;
+    display: block;
+    margin-left: auto;
+  }
+    canvas{
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+  }
